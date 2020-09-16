@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "name": "worldometer-coronavirus-info",
+      "details": "A simple NPM package made for fetching coronavirus info from worldometer.info .",
+      "github": "https://github.com/abh80/worldometer-coronavirus-info",
+      "npm": "https://npmjs.com/package/worldometer-coronavirus-info"
+    },
+    {
+      "name": "clock",
+      "details": "Clock is an App built using the Electron , Clock has 498 + observatories Data , Make sure to check it out !",
+      "github": "https://github.com/abh80/clock"
+    },
+    {
+      "name": "SpaceX App (⚠️Beta)",
+      "visit": "https://spacex.starstracker.xyz",
+      "github": "https://github.com/abh80/spacexapp",
+      "details": "An App made for Space X fans which will help you explore rockets and some other stuffs."
+    },
+    {
+      "name": "spotify-api.js",
+      "visit": "https://spotify-apijs.netlify.app/#/",
+      "github":"https://github.com/abh80/spotify-api.js",
+      "npm":"https://npmjs.com/package/spotify-api.js",
+      "details":"A powerfull module made for interacting with the spotify api with some extra features."
+    },
+    {
+      "name":"starstracker.xyz",
+      "visit":"https://starstracker.xyz",
+      "github":"https://github.com/abh80/starstracker.xyz",
+      "details":"The website you are seeing is also a part of my open source project."
+    }
+  ]
+}

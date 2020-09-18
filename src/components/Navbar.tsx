@@ -7,6 +7,7 @@ export default function () {
         <a href = "/#main">Main</a>
         <a href = "/#featured">Featured</a>
         <a href = "/#projects">Projects</a>
+        <a href = "https://status.starstracker.xyz/">Status</a>
       </div>
     </div>
   );
